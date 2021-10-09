@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samthefan, but you can call me Sam.
 - 👀 I’m interested in ...coding, video games and reading.
-- 🌱 I’m currently learning ...Javascript, NodeJs and ReactJs
+- 🌱 I’m currently learning ... HTML, CSS and JavaScript. Hopefully once I've practiced enough I can move on to the next set of things.
 - 💞️ I’m looking to collaborate on ...anything I can use to help me build my skills
 - 📫 How to reach me ...through my mail nuaanz1@outlook.com
 
